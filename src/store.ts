@@ -1,4 +1,3 @@
-import 'reflect-metadata';
 import { JSONArray, JSONObject, JSONPrimitive } from './json-types';
 import { _assert, _assertTrue } from './mgts/assertMgt';
 import { isFunction } from './mgts/functionMgt';
